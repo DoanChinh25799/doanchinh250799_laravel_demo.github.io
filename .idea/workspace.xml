@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f972dfe-089a-4dc2-b453-a9850d603b2d" name="Default Changelist" comment="" />
+    <list default="true" id="7f972dfe-089a-4dc2-b453-a9850d603b2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ckfinder/core/connector/php/vendor/cksource/ckfinder" beforeDir="false" afterPath="$PROJECT_DIR$/public/ckfinder/core/connector/php/vendor/cksource/ckfinder" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +256,7 @@
       <workItem from="1610287648960" duration="1189000" />
       <workItem from="1610293042924" duration="1000" />
       <workItem from="1610438635975" duration="985000" />
-      <workItem from="1614392619912" duration="1686000" />
+      <workItem from="1614392619912" duration="3306000" />
     </task>
     <servers>
       <GitHub url="https://github.com" />
